@@ -1,3 +1,6 @@
+-- first video notes
+
+
 k => up
 j => down
 h => left
@@ -15,11 +18,20 @@ esc or ctrl+i or ctrl+[ => leave insert mode
 :w => save file
 
 
+============== second video notes. =================
 
 
+2 years ago (edited)
+zoo-wee, lots of speedy content here, didn't know about asterix - thanks!! 
+1:42 <shift>+O
+3:04 <shift>+P
+3:34 A
+4:01 <shift>+I, and <shift>+A
+4:21 /,  N, and <shift>+N
+5:01 * and #
 
 
-
+================= 3rd video ====================
 
 
 
